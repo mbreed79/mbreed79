@@ -10,7 +10,10 @@
   - [Build Pics](https://github.com/mbreed79/PC-Build/blob/main/PC_Build_README.md)
 - <b>Fixed a UPS</b>
   - [Story](https://github.com/mbreed79/UPS-FIX/blob/main/README.md)
-    
+
+<h2>👨‍💻 Python Project:</h2>
+
+- [Algorithm for updating allow list](https://github.com/mbreed79/Python_project/blob/main/README.md)
 
 <h2>👨‍💻 Google IT Program Projects:</h2>
     
