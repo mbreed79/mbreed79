@@ -3,38 +3,38 @@
 <h2>👨‍💻 Personal Projects:</h2>
 
 - <b>Active Directory Lab</b>
-  - [Praciting DS & Algos in Python](https://www.example.com)
+  - [PLACEHOLDER](https://www.example.com)
 - <b>Microsoft Azure Lab</b>
-  - [Praciting DS & Algos in Python](https://www.example.com)
+  - [PLACEHOLDER](https://www.example.com)
 - <b>My PC Build</b>
   - [Build Pics](https://github.com/mbreed79/PC-Build/blob/main/PC_Build_README.md)
     
 
 <h2>👨‍💻 Google IT Program Projects:</h2>
     
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://www.example.com)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://www.example.com) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://www.example.com)
-  - [JWipe (Disk Wiping Utility)](https://www.example.com)
-  - [Active Directory Bulk User Creation](https://www.example.com)
-  - [FIM (File Integrity Monitor)](https://www.example.com)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://www.example.com)
-  - [Ransomware Proof of Concept (Decrypter)](https://www.example.com)
-  - [Keylogger with Email Capability](https://www.example.com)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://www.example.com)
+- <b>PLACEHOLDER</b>
+  - [PLACEHOLDER](https://www.example.com)
+- <b>PLACEHOLDER</b>
+  - [PLACEHOLDER](https://www.example.com) 
+- <b>PLACEHOLDER</b>
+  - [PLACEHOLDER](https://www.example.com)
+  - [PLACEHOLDER](https://www.example.com)
+  - [PLACEHOLDER](https://www.example.com)
+  - [PLACEHOLDER)](https://www.example.com)
+- <b>PLACEHOLDER</b>
+  - [PLACEHOLDER](https://www.example.com)
+  - [PLACEHOLDER](https://www.example.com)
+  - [PLACEHOLDER](https://www.example.com)
+- <b>PLACEHOLDER</b>
+  - [PLACEHOLDER](https://www.example.com)
 
 <h2>👨‍💻 Google Cybersecurity Program Projects:</h2>
    
-- [How to get into Cybersecurity Starting From Zero](https://www.example.com)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.example.com)
-- [How to Create a KeyLogger (C#)](https://www.example.com)
-- [Ransomware Demonstration (C#)](https://www.example.com)
-- [Is WGU Legit?](https://www.example.com)
+- [PLACEHOLDER](https://www.example.com)
+- [PLACEHOLDER](https://www.example.com)
+- [PLACEHOLDER](https://www.example.com)
+- [PLACEHOLDER](https://www.example.com)
+- [PLACEHOLDER](https://www.example.com)
 
 <h2>📜 Certifications:</h2>
 
