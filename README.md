@@ -6,6 +6,9 @@
   - [Praciting DS & Algos in Python](https://www.example.com)
 - <b>Microsoft Azure Lab</b>
   - [Praciting DS & Algos in Python](https://www.example.com)
+- <b>My PC Build</b>
+  - [Build Pics](https://www.example.com)
+    
 
 <h2>👨‍💻 Google IT Program Projects:</h2>
     
