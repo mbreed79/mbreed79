@@ -8,6 +8,8 @@
   - [PLACEHOLDER](https://www.example.com)
 - <b>My PC Build</b>
   - [Build Pics](https://github.com/mbreed79/PC-Build/blob/main/PC_Build_README.md)
+- <b>Fixed a UPS</b>
+  - [Story](https://github.com/mbreed79/UPS-FIX/blob/main/README.md)
     
 
 <h2>👨‍💻 Google IT Program Projects:</h2>
