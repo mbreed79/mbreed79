@@ -14,21 +14,11 @@
 
 <h2>👨‍💻 Google IT Program Projects:</h2>
     
-- <b>PLACEHOLDER</b>
-  - [PLACEHOLDER](https://www.example.com)
-- <b>PLACEHOLDER</b>
-  - [PLACEHOLDER](https://www.example.com) 
-- <b>PLACEHOLDER</b>
-  - [PLACEHOLDER](https://www.example.com)
-  - [PLACEHOLDER](https://www.example.com)
-  - [PLACEHOLDER](https://www.example.com)
-  - [PLACEHOLDER)](https://www.example.com)
-- <b>PLACEHOLDER</b>
-  - [PLACEHOLDER](https://www.example.com)
-  - [PLACEHOLDER](https://www.example.com)
-  - [PLACEHOLDER](https://www.example.com)
-- <b>PLACEHOLDER</b>
-  - [PLACEHOLDER](https://www.example.com)
+- [File Permissions in Linux](https://github.com/mbreed79/linux_permissions/blob/main/File%20permissions%20in%20Linux.pdf)
+
+- [IT Process Review](https://github.com/mbreed79/Process_review/blob/main/Company_IT_Review_Project.pdf) 
+
+  
 
 <h2>👨‍💻 Google Cybersecurity Program Projects:</h2>
    
