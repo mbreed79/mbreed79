@@ -33,7 +33,7 @@
 
 <h2>📜 Certifications:</h2>
 
-- [CompTIA A+](https://www.credly.com/badges/4ab4a166-32c8-4145-a87a-8412af885504)
+- [CompTIA A+](https://www.credly.com/badges/4ab4a166-32c8-4145-a87a-8412af885504/public_url)
 - [Google IT Support Professional](https://www.credly.com/badges/72fc6f61-4b49-4e28-8b40-c8dadf77588a/public_url)
 - [Google Cybersecurity](https://www.credly.com/badges/d8101bed-bfaf-4112-99c7-f0ba00718ca2/public_url)
   
