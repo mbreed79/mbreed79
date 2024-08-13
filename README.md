@@ -2,14 +2,14 @@
 
 <h2>👨‍💻 Personal Projects:</h2>
 
-- <b>Active Directory Lab</b>
-  - [PLACEHOLDER](https://www.example.com)
-- <b>Microsoft Azure Lab</b>
-  - [PLACEHOLDER](https://www.example.com)
-- <b>My PC Build</b>
-  - [Build Pics](https://github.com/mbreed79/PC-Build/blob/main/PC_Build_README.md)
-- <b>Fixed a UPS</b>
-  - [Story](https://github.com/mbreed79/UPS-FIX/blob/main/README.md)
+
+  - [Active Directory Lab](https://www.example.com)
+
+  - [Microsoft Azure Lab](https://www.example.com)
+
+  - [My PC Build](https://github.com/mbreed79/PC-Build/blob/main/PC_Build_README.md)
+ 
+  - [Fixed a UPS](https://github.com/mbreed79/UPS-FIX/blob/main/README.md)
 
 <h2>👨‍💻 Python Project:</h2>
 
