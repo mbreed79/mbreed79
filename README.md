@@ -3,9 +3,9 @@
 <h2>👨‍💻 Personal Projects:</h2>
 
 
-  - [Active Directory Lab](https://www.example.com)
+  - [Active Directory Lab](https://www.example.com)🚧Under Construction🚧
 
-  - [Microsoft Azure Lab](https://www.example.com)
+  - [Microsoft Azure Lab](https://www.example.com)🚧Under Construction🚧
 
   - [My PC Build](https://github.com/mbreed79/PC-Build/blob/main/PC_Build_README.md)
  
@@ -25,11 +25,11 @@
 
 <h2>👨‍💻 Google Cybersecurity Program Projects:</h2>
    
-- [PLACEHOLDER](https://www.example.com)
-- [PLACEHOLDER](https://www.example.com)
-- [PLACEHOLDER](https://www.example.com)
-- [PLACEHOLDER](https://www.example.com)
-- [PLACEHOLDER](https://www.example.com)
+- [PLACEHOLDER](https://www.example.com)🚧Under Construction🚧
+- [PLACEHOLDER](https://www.example.com)🚧Under Construction🚧
+- [PLACEHOLDER](https://www.example.com)🚧Under Construction🚧
+- [PLACEHOLDER](https://www.example.com)🚧Under Construction🚧
+- [PLACEHOLDER](https://www.example.com)🚧Under Construction🚧
 
 <h2>📜 Certifications:</h2>
 
